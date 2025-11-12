@@ -12,13 +12,23 @@ Personnellement, j'utilise la [Roadmap d'Orange](https://orange-cyberdefense.git
 ## Liens utiles 
 
 https://attack.mitre.org/
+
 https://book.hacktricks.wiki/en/index.html
+
 https://github.com/danielmiessler/SecLists
+
 https://swisskyrepo.github.io/InternalAllTheThings/
+
 https://www.thehacker.recipes/
+
 https://github.com/A-poc/RedTeam-Tools
+
 https://gtfobins.github.io/
+
 https://www.exploit-db.com/
+
 https://www.dcode.fr/
+
 https://it-tools.tech/
+
 https://cyberchef.io/
