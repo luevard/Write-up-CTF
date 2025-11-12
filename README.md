@@ -1,1 +1,22 @@
-# Write-ups-THM
+# Write-up-CTF
+
+Bonjour à tous !
+
+Dans le cadre de mon autoformation en Pentest (car mon école n'est pas fichu de le faire alors que c'est 10k l'année bref), je me suis inscrit et je paye un compte premium TryHackMe.
+
+L’objectif de ce repo est de :
+- Documenter mes write-ups des CTF TryHackMe (ou autre)
+- Partager ma démarche et mes apprentissages
+- Et surtout, m’aider à mieux retenir ce que j’ai appris
+
+Chaque write-up est rédigé de façon pédagogique et détaillée afin de pouvoir servir aussi bien de mémo personnel que de ressource ouverte
+
+L'ensemble des sources utilisées dans les pentest, dans le cas où c'est spécifique à la room, seront dans le Write-Up associé à la room, tandis que pour les ressources communes (outils, roadmap...) à toutes les rooms seront [ici](Sources.md).
+
+⚠️ Disclaimer
+
+Ces write-ups sont destinés uniquement à des fins éducatives et légales
+
+Je ne cautionne aucune activité illégale ou utilisation de ces connaissances en dehors de cadres autorisés (TryHackMe, labs, environnements de test, etc.)
+
+
