@@ -13,7 +13,15 @@ Chaque write-up est rédigé de façon pédagogique et détaillée afin de pouvo
 
 L'ensemble des sources utilisées dans les pentest, dans le cas où c'est spécifique à la room, seront dans le Write-Up associé à la room, tandis que pour les ressources communes (outils, roadmap...) à toutes les rooms seront [ici](Sources.md)
 
-⚠️ Disclaimer
+
+## Liste des challenges
+
+- [Easy - Soupedecode_01](Easy/Soupedecode_01.md)
+- [Hard - Ledger](Hard/Ledger.md)
+
+------------
+
+## ⚠️ Disclaimer
 
 Ces write-ups sont destinés uniquement à des fins éducatives et légales
 
