@@ -4,7 +4,7 @@ A vulnerable Terminator themed Linux machine.
 
 Level: Easy
 
-Type: Windows Machine
+Type: Linux machine
 
 ##  Scanning
 
@@ -193,7 +193,7 @@ Type: Windows Machine
 
 **Le mail de password reset peut nous servir !**
 
-![](skynet_password.png)
+![](img/skynet_password.png)
 
 **Nous avons un mot de passe pour accéder au serveur SMB via le compte de Miles**
 
