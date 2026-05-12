@@ -18,6 +18,7 @@ L'ensemble des sources utilisées dans les pentest, dans le cas où c'est spéci
 
 - [Easy - Soupedecode_01](Easy/Soupedecode_01.md)
 - [Easy - Steel Mountain](Easy/Steel_Mountain.md)
+- [Easy - Skynet](Easy/Skynet.md)
 - [Hard - Ledger](Hard/Ledger.md)
 - [Hard - Reset](Hard/Reset.md)
 
