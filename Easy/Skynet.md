@@ -4,7 +4,7 @@ A vulnerable Terminator themed Linux machine.
 
 Level: Easy
 
-Type: Windows Machine
+Type: Linux machine
 
 ##  Scanning
 
